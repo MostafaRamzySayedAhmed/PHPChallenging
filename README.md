@@ -1,2 +1,1 @@
-# PHP Challenging
-**Solving Web Challenges &amp; Problems Using PHP**.
+**Practical Exercising on Solving Web Challenges Using PHP.**.
